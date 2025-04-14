@@ -7,7 +7,7 @@
 using namespace std;
 
 int main() {
-    Database db("C:/test/database.txt");
+    Database db("database.txt");
     int choice = 0;
 
     while (true) {
